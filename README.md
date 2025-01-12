@@ -90,16 +90,16 @@ Follow these steps to build your own disposable vape power bank:
   *If you get an email asking if the polarities of the springs are correct - reply that they are*
 
 3. *Order the USB board*
-    - USB board - Type 1 (Used in the video)
-      - *ENSURE THE 5S OPTION IS SELECTED*
-    - USB board - Type 2 (More USB C ports - requires different 3D prints to the video)
-      - *ENSURE THE 5S OPTION IS SELECTED*
+    - [USB board - Type 1 (Recommended - Used in the video)](https://s.click.aliexpress.com/e/_oBGOqhR)
+       - *ENSURE THE 5S OPTION IS SELECTED*
+    - [USB board - Type 2 (More USB C ports - requires different 3D prints to the video)](https://s.click.aliexpress.com/e/_oBXyxIH)
+       - *ENSURE THE 5S OPTION IS SELECTED*
 
 4. *Order optional extras*
-    - Right angle JST connector
+    - [Right angle JST connector](https://s.click.aliexpress.com/e/_oEeP6lf)
       - *ENSURE XH2.54MM, Length 10CM, 4P IS SELECTED*
       - Not essential but makes wiring the board slightly easier
-    - 8 Channel Cell Tester
+    - [8 Channel Cell Tester](https://s.click.aliexpress.com/e/_oEuMn9T)
       - Also not essential
       - Allows you to match the battery capacities for each parallel row - improves powerbank battery life & lifespan
       - Good if you regularly do battery related projects
