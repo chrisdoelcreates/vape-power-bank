@@ -1,8 +1,10 @@
-# 3D Model Files for Disposable Vape Power Bank
+# 3D Model Files
 
-This directory contains 3D model files for creating enclosures and cell holders for the disposable vape power bank project. The models are organized by USB board type and compatible cell lengths to make it easy to find the appropriate files for your build.
+This directory contains 3D model files to print the enclosures and cell holders for the disposable vape power bank project. The models are organized by USB board type and compatible cell lengths to make it easy to find the appropriate files for your build.
+
 If your cells are not 30mm, 35mm or 40mm in length, you can modify the cell holder and enclosure .step models to fit your particular cell size.
 
+**NOTE:** This project only supports vape cells of 13mm diameter. 
 
 ## Overview
 The project supports **two USB board types** and **three common cell lengths**:
