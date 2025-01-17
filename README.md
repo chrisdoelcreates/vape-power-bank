@@ -8,7 +8,7 @@ This repository contains everything you need to build a functional 100W power ba
 
 See the entire build process in action on my YouTube channel:
 
-[Watch on YouTube](https://youtu.be/h3FRk3OD1Ug)
+[Watch on YouTube](https://youtu.be/kMiJdfgIfqI)
 
 ---
 
