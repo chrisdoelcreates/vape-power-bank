@@ -109,10 +109,12 @@ Follow these steps to build your own disposable vape power bank:
       - Good if you regularly do battery related projects
 
 6. *Print the parts*
-    - Download the cell holder
-    - Download the enclosure
+    - Easiest: Find the right size on [printables](https://www.printables.com/@montecha_2397581/collections/2035794)
+      Or
+    - Download the cell holder from the 3D models folder
+    - Download the enclosure from the 3D models folder
       - Select the enclosure depending on your board type
-    - Print out the parts
+    - Print out the parts!
 
 7. *Build the Powerbank!*
      - Follow along with the Youtube video
