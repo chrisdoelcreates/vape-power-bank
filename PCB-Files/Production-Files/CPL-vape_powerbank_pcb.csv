@@ -2,9 +2,9 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 F1,Fuse,Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,12.025,-18.65,-90.0,top
 F2,Fuse,Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,11.95,-49.1,0.0,top
 F3,Fuse,Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,12.0,-89.75,90.0,top
-J1,Conn_01x01_Pin,SMD_spring_clamp_connector_1x1,9.025,-14.8,90.0,top
-J2,Conn_01x01_Pin,SMD_spring_clamp_connector_1x1,4.4,-57.925,0.0,top
-J3,Conn_01x01_Pin,SMD_spring_clamp_connector_1x1,9.025,-93.6,90.0,top
+J1,Conn_01x01_Pin,SMD_spring_clamp_connector_1x1,9.025,-14.8,-90.0,top
+J2,Conn_01x01_Pin,SMD_spring_clamp_connector_1x1,4.4,-57.925,180.0,top
+J3,Conn_01x01_Pin,SMD_spring_clamp_connector_1x1,9.025,-93.6,-90.0,top
 R1,R,R_0603_1608Metric,26.3,-25.5,-90.0,top
 R2,R,R_0603_1608Metric,24.8,-25.5,-90.0,top
 R3,R,R_0603_1608Metric,23.3,-25.5,-90.0,top
